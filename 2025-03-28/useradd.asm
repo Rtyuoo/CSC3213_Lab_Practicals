@@ -13,6 +13,7 @@
    start:
    mov ax,@data
    mov ds,ax
+   .ල්ප්.ල්ල්ල්..ල්..
    
    mov dx,offset msg1 ;print the msg1
    mov ah,09h
